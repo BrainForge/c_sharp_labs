@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba3", "vesna_laba3\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba5", "vesna_laba5\vesna_laba5.csproj", "{27D2EA2B-0D7B-441D-8E72-61ED727F7DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba6", "vesna_laba6\vesna_laba6.csproj", "{BC351244-B80D-4971-89C3-BBD62BB4FEDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -109,6 +111,10 @@ Global
 		{B681A801-E7A0-4734-9146-7174CA7709BC}.Debug|x86.Build.0 = Debug|x86
 		{B681A801-E7A0-4734-9146-7174CA7709BC}.Release|x86.ActiveCfg = Release|x86
 		{B681A801-E7A0-4734-9146-7174CA7709BC}.Release|x86.Build.0 = Release|x86
+		{BC351244-B80D-4971-89C3-BBD62BB4FEDC}.Debug|x86.ActiveCfg = Debug|x86
+		{BC351244-B80D-4971-89C3-BBD62BB4FEDC}.Debug|x86.Build.0 = Debug|x86
+		{BC351244-B80D-4971-89C3-BBD62BB4FEDC}.Release|x86.ActiveCfg = Release|x86
+		{BC351244-B80D-4971-89C3-BBD62BB4FEDC}.Release|x86.Build.0 = Release|x86
 		{C503F1A4-1CC2-4F00-9DF2-1FA18C8BC53A}.Debug|x86.ActiveCfg = Debug|x86
 		{C503F1A4-1CC2-4F00-9DF2-1FA18C8BC53A}.Debug|x86.Build.0 = Debug|x86
 		{C503F1A4-1CC2-4F00-9DF2-1FA18C8BC53A}.Release|x86.ActiveCfg = Release|x86
@@ -123,6 +129,6 @@ Global
 		{D3382E4C-628B-427C-87C2-206C12F9486F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = vesna_laba5\vesna_laba5.csproj
+		StartupItem = vesna_laba6\vesna_laba6.csproj
 	EndGlobalSection
 EndGlobal
