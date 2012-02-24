@@ -129,6 +129,6 @@ Global
 		{D3382E4C-628B-427C-87C2-206C12F9486F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = vesna_laba6\vesna_laba6.csproj
+		StartupItem = vesna_laba5\vesna_laba5.csproj
 	EndGlobalSection
 EndGlobal
