@@ -6,7 +6,7 @@ namespace vesna_laba6
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine (new Dot(1,3).ToString());
+			Console.WriteLine (new Dot(1,3).ToString()); 
 		}
 	}
 }
