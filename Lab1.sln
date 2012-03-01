@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba5", "vesna_laba5\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba6", "vesna_laba6\vesna_laba6.csproj", "{BC351244-B80D-4971-89C3-BBD62BB4FEDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfeistest", "interfeistest\interfeistest.csproj", "{FF803482-71C3-44C4-A510-0D902393645C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba7", "vesna_laba7\vesna_laba7.csproj", "{448ED365-88FF-4F96-A4F7-250CE166A235}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -67,6 +71,10 @@ Global
 		{4298AE73-A068-42F0-8A22-D7A36C1E0263}.Debug|x86.Build.0 = Debug|x86
 		{4298AE73-A068-42F0-8A22-D7A36C1E0263}.Release|x86.ActiveCfg = Release|x86
 		{4298AE73-A068-42F0-8A22-D7A36C1E0263}.Release|x86.Build.0 = Release|x86
+		{448ED365-88FF-4F96-A4F7-250CE166A235}.Debug|x86.ActiveCfg = Debug|x86
+		{448ED365-88FF-4F96-A4F7-250CE166A235}.Debug|x86.Build.0 = Debug|x86
+		{448ED365-88FF-4F96-A4F7-250CE166A235}.Release|x86.ActiveCfg = Release|x86
+		{448ED365-88FF-4F96-A4F7-250CE166A235}.Release|x86.Build.0 = Release|x86
 		{4CCC9684-B9BC-4731-B5A1-7937871D5E12}.Debug|x86.ActiveCfg = Debug|x86
 		{4CCC9684-B9BC-4731-B5A1-7937871D5E12}.Debug|x86.Build.0 = Debug|x86
 		{4CCC9684-B9BC-4731-B5A1-7937871D5E12}.Release|x86.ActiveCfg = Release|x86
@@ -127,8 +135,12 @@ Global
 		{D3382E4C-628B-427C-87C2-206C12F9486F}.Debug|x86.Build.0 = Debug|x86
 		{D3382E4C-628B-427C-87C2-206C12F9486F}.Release|x86.ActiveCfg = Release|x86
 		{D3382E4C-628B-427C-87C2-206C12F9486F}.Release|x86.Build.0 = Release|x86
+		{FF803482-71C3-44C4-A510-0D902393645C}.Debug|x86.ActiveCfg = Debug|x86
+		{FF803482-71C3-44C4-A510-0D902393645C}.Debug|x86.Build.0 = Debug|x86
+		{FF803482-71C3-44C4-A510-0D902393645C}.Release|x86.ActiveCfg = Release|x86
+		{FF803482-71C3-44C4-A510-0D902393645C}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = vesna_laba6\vesna_laba6.csproj
+		StartupItem = vesna_laba7\vesna_laba7.csproj
 	EndGlobalSection
 EndGlobal
