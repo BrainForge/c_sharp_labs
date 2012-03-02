@@ -47,12 +47,18 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba7", "vesna_laba7\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba8", "vesna_laba8\vesna_laba8.csproj", "{2BD8076E-0130-4778-9454-51FEB2570B3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vesna_laba9", "vesna_laba9\vesna_laba9.csproj", "{04305480-6DAE-4480-9B83-C2555F0455B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04305480-6DAE-4480-9B83-C2555F0455B1}.Debug|x86.ActiveCfg = Debug|x86
+		{04305480-6DAE-4480-9B83-C2555F0455B1}.Debug|x86.Build.0 = Debug|x86
+		{04305480-6DAE-4480-9B83-C2555F0455B1}.Release|x86.ActiveCfg = Release|x86
+		{04305480-6DAE-4480-9B83-C2555F0455B1}.Release|x86.Build.0 = Release|x86
 		{0B251CD1-5A4B-4005-A0B7-CDEB1A49AFB1}.Debug|x86.ActiveCfg = Debug|x86
 		{0B251CD1-5A4B-4005-A0B7-CDEB1A49AFB1}.Debug|x86.Build.0 = Debug|x86
 		{0B251CD1-5A4B-4005-A0B7-CDEB1A49AFB1}.Release|x86.ActiveCfg = Release|x86

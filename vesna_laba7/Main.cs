@@ -11,7 +11,7 @@ namespace vesna_laba7
 			                     Int16.Parse(Console.ReadLine()),Int16.Parse(Console.ReadLine()));
 			
 			Console.WriteLine("X1={0} Y1={1} X2={2} Y2={3}",line.x1,line.y1,line.x2,line.y2);
-			Console.WriteLine("line lenght: X="+line.sumVect().x+"Y="+line.sumVect().y);
+			Console.WriteLine("Summ vect: X="+line.sumVect().x+"Y="+line.sumVect().y);
 		}
 	}
 }
