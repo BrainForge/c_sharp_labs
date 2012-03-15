@@ -1,9 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="vesna_laba6/Main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vesna_laba10/triangle.cs">
     <Files>
-      <File FileName="../Lab1.diff" Line="9" Column="1" />
-      <File FileName="vesna_laba6/Main.cs" Line="5" Column="17" />
+      <File FileName="vesna_laba10/triangle.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
