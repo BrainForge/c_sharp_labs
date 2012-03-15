@@ -5,10 +5,10 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>10.0.0</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{C503F1A4-1CC2-4F00-9DF2-1FA18C8BC53A}</ProjectGuid>
+    <ProjectGuid>{E965F38D-7A23-4C78-867D-4D6DFBC591AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>vesna_laba3</RootNamespace>
-    <AssemblyName>vesna_laba3</AssemblyName>
+    <RootNamespace>vesna_laba10</RootNamespace>
+    <AssemblyName>vesna_laba10</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -16,7 +16,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug</OutputPath>
-    <DefineConstants>DEBUG;</DefineConstants>
+    <DefineConstants>DEBUG</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <PlatformTarget>x86</PlatformTarget>
@@ -37,7 +37,7 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AssemblyInfo.cs" />
-    <Compile Include="tarakan.cs" />
+    <Compile Include="triangle.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
